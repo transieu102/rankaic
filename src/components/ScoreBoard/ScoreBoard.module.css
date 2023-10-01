@@ -4,3 +4,36 @@
     min-height: 100%;
     border: 1px solid red;
 }
+
+.list {
+    width: 100%;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 56px;
+}
+
+.item {
+    margin: 8px 0 32px 7%;
+    min-height: 100px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid;
+    padding: 0 4%;
+}
+
+.stt {
+
+}
+
+.name {
+
+}
+
+.score {
+
+}
