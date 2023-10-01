@@ -1,0 +1,6 @@
+.mainContainer {
+    min-width: 50%;
+    max-width: 50%;
+    min-height: 100%;
+    border: 1px solid red;
+}
